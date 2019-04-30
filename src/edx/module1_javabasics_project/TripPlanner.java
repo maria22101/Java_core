@@ -1,5 +1,6 @@
 package edx.module1_javabasics_project;
 
+import javax.xml.bind.SchemaOutputResolver;
 import java.util.Scanner;
 
 public class TripPlanner {
@@ -29,9 +30,10 @@ public class TripPlanner {
         System.out.println("If you are travelling for " + days + " days" + " that is the same as " + days * 24 +
                 " hours " + "or " + days * 24 * 60 + " minutes");
         System.out.println("If you are going to spend " + "$" + sum + " USD" +
-                " that means per day you can spend up to " + "$" + (double) sum / days + " USD");
-        System.out.println("Your total budget in " + curr_sign + " is " + sum * ex_rate + " " + curr_sign +
-                ", which per day is " + sum * ex_rate / days + " " + curr_sign);
+                " that means per day you can spend up to " + "$" + ((int)(((double) sum / days)*100))/100.0 + " USD");
+        System.out.println("Your total budget in " + curr_sign + " is " + ((int) (sum * ex_rate * 100))/100.0 +
+                " " + curr_sign + ", which per day is " + ((int)(sum * ex_rate / days * 100)) / 100.0 +
+                " " + curr_sign);
         System.out.println("**********");
 
     }
@@ -56,9 +58,18 @@ public class TripPlanner {
         }
     }
 
+    public static void country_area(){
+        System.out.print("What is the area of your destination country in sq km?\t");
+        Scanner scanner = new Scanner(System.in);
+        double area_in_km = scanner.nextDouble();
+        double area_in_mile = area_in_km * 0.386102159;
+        System.out.println("The area of your destination country in square miles is " + ((int)(area_in_mile*100))/100.0);
+    }
+
     public static void main(String[] args) {
-//        greet();
-//        timing_and_budgeting();
+        greet();
+        timing_and_budgeting();
         time_difference();
+        country_area();
     }
 }

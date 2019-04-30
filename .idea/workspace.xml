@@ -54,31 +54,32 @@
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="2" />
-          <entry key="java" value="7" />
+          <entry key="java" value="8" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="8" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2077" />
+          <entry key="java" value="2865" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2077" />
+          <entry key="JAVA" value="2865" />
         </counts>
       </usages-collector>
     </session>
@@ -97,11 +98,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edx/module1_javabasics_project/TripPlanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
+            <state relative-caret-position="186">
+              <caret line="65" column="117" selection-start-line="65" selection-start-column="117" selection-end-line="65" selection-end-column="117" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="method#greet#0;class#TripPlanner#0" />
-                <element signature="method#timing_and_budgeting#0;class#TripPlanner#0" />
+                <element signature="method#time_difference#0;class#TripPlanner#0" />
               </folding>
             </state>
           </provider>
@@ -129,6 +131,7 @@
         <option value="$PROJECT_DIR$/src/Practice.java" />
         <option value="$PROJECT_DIR$/src/com/module_1_tasks/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/PracticeString.java" />
+        <option value="$PROJECT_DIR$/src/edx/module1_javabasics_practice/SwitchExample.java" />
         <option value="$PROJECT_DIR$/src/edx/module1_javabasics_project/TripPlanner.java" />
       </list>
     </option>
@@ -168,14 +171,21 @@
               <item name="Edx Java practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="edx" type="462c0819:PsiDirectoryNode" />
+              <item name="module1_javabasics_practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Edx Java practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Edx Java practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edx" type="462c0819:PsiDirectoryNode" />
               <item name="module1_javabasics_project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,6 +219,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwitchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edx.module1_javabasics_practice.SwitchExample" />
+      <module name="Edx Java practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edx.module1_javabasics_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TripPlanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edx.module1_javabasics_project.TripPlanner" />
       <module name="Edx Java practice" />
@@ -226,10 +249,12 @@
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.PracticeString" />
       <item itemvalue="Application.TripPlanner" />
+      <item itemvalue="Application.SwitchExample" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TripPlanner" />
+        <item itemvalue="Application.SwitchExample" />
         <item itemvalue="Application.PracticeString" />
         <item itemvalue="Application.HelloWorld" />
       </list>
@@ -248,11 +273,20 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23827533" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22163388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -261,12 +295,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37244898" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2857143" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32993197" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32993197" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32993197" />
@@ -293,20 +327,8 @@
     <entry file="file://$PROJECT_DIR$/../../25.03.2019_class_BinarySearch/25.03.2019_class_BinarySearch.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/project_Trip_Planner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" selection-start-column="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/module1_edx_javabasics/Project_TripPlanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project_Trip_Planner.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/module1_edx_javabasics/Project_TripPlanner.java" />
     <entry file="file://$PROJECT_DIR$/src/edx/module1_javabasics_practice/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -327,13 +349,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_javabasics_practice/SwitchExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="88" selection-start-line="9" selection-start-column="88" selection-end-line="9" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/edx/module1_javabasics_project/TripPlanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
+        <state relative-caret-position="186">
+          <caret line="65" column="117" selection-start-line="65" selection-start-column="117" selection-end-line="65" selection-end-column="117" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="method#greet#0;class#TripPlanner#0" />
-            <element signature="method#timing_and_budgeting#0;class#TripPlanner#0" />
+            <element signature="method#time_difference#0;class#TripPlanner#0" />
           </folding>
         </state>
       </provider>
