@@ -1,4 +1,4 @@
-package edx.module1_javabasics_practice;
+package edx.module1_2_javabasics_practice;
 
 public class PracticeString {
     public static void main(String[] args) {

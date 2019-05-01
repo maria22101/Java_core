@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b589faab-9d5e-446d-881c-4de2fc975e97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/edx/module1_javabasics_practice/LoopExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edx/module1_javabasics_practice/MathExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edx/module1_javabasics_practice/NestedLoopExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edx/module2_javabasics_project/OddsOrEvens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_javabasics_project/TripPlanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_javabasics_project/TripPlanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_javabasics_practice/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_javabasics_practice/LoopExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_javabasics_practice/MathExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_javabasics_practice/NestedLoopExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_javabasics_practice/PracticeString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_javabasics_practice/SwitchExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edx/module1_javabasics_practice/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edx/module1_javabasics_practice/LoopExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/LoopExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edx/module1_javabasics_practice/MathExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/MathExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edx/module1_javabasics_practice/NestedLoopExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/NestedLoopExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edx/module1_javabasics_practice/PracticeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/PracticeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edx/module1_javabasics_practice/SwitchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/SwitchExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,66 +73,36 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="2" />
-          <entry key="java" value="12" />
+          <entry key="java" value="14" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="14" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3422" />
+          <entry key="java" value="4136" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3422" />
+          <entry key="JAVA" value="4136" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edx/module1_javabasics_practice/PracticeString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edx/module1_javabasics_project/TripPlanner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1064">
-              <caret line="73" selection-start-line="73" selection-end-line="73" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edx/module1_javabasics_practice/LoopExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/edx/module1_javabasics_practice/NestedLoopExample.java">
+        <entry file="file://$PROJECT_DIR$/src/edx/module2_javabasics_project/OddsOrEvens.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-109">
-              <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+            <state relative-caret-position="782">
+              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -156,6 +135,7 @@
         <option value="$PROJECT_DIR$/src/edx/module1_javabasics_practice/LoopExample.java" />
         <option value="$PROJECT_DIR$/src/edx/module1_javabasics_practice/Trial.java" />
         <option value="$PROJECT_DIR$/src/edx/module1_javabasics_practice/NestedLoopExample.java" />
+        <option value="$PROJECT_DIR$/src/edx/module2_javabasics_project/OddsOrEvens.java" />
       </list>
     </option>
   </component>
@@ -194,7 +174,7 @@
               <item name="Edx Java practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="edx" type="462c0819:PsiDirectoryNode" />
-              <item name="module1_javabasics_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="module1_2_javabasics_practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Edx Java practice" type="b2602c69:ProjectViewProjectNode" />
@@ -202,6 +182,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="edx" type="462c0819:PsiDirectoryNode" />
               <item name="module1_javabasics_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Edx Java practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Edx Java practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edx" type="462c0819:PsiDirectoryNode" />
+              <item name="module2_javabasics_project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,13 +214,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NestedLoopExample">
+  <component name="RunManager" selected="Application.OddsOrEvens">
     <configuration name="LoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edx.module1_javabasics_practice.LoopExample" />
+      <option name="MAIN_CLASS_NAME" value="edx.module1_2_javabasics_practice.LoopExample" />
       <module name="Edx Java practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edx.module1_javabasics_practice.*" />
+          <option name="PATTERN" value="edx.module1_2_javabasics_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,11 +229,11 @@
       </method>
     </configuration>
     <configuration name="MathExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edx.module1_javabasics_practice.MathExample" />
+      <option name="MAIN_CLASS_NAME" value="edx.module1_2_javabasics_practice.MathExample" />
       <module name="Edx Java practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edx.module1_javabasics_practice.*" />
+          <option name="PATTERN" value="edx.module1_2_javabasics_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,11 +242,24 @@
       </method>
     </configuration>
     <configuration name="NestedLoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edx.module1_javabasics_practice.NestedLoopExample" />
+      <option name="MAIN_CLASS_NAME" value="edx.module1_2_javabasics_practice.NestedLoopExample" />
       <module name="Edx Java practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edx.module1_javabasics_practice.*" />
+          <option name="PATTERN" value="edx.module1_2_javabasics_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddsOrEvens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edx.module2_javabasics_project.OddsOrEvens" />
+      <module name="Edx Java practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edx.module2_javabasics_project.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,20 +272,7 @@
       <module name="Edx Java practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edx.module1_javabasics_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TripPlanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edx.module1_javabasics_project.TripPlanner" />
-      <module name="Edx Java practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edx.module1_javabasics_project.*" />
+          <option name="PATTERN" value="edx.module1_2_javabasics_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,19 +281,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TripPlanner" />
       <item itemvalue="Application.MathExample" />
       <item itemvalue="Application.LoopExample" />
       <item itemvalue="Application.Trial" />
       <item itemvalue="Application.NestedLoopExample" />
+      <item itemvalue="Application.OddsOrEvens" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OddsOrEvens" />
         <item itemvalue="Application.NestedLoopExample" />
         <item itemvalue="Application.Trial" />
         <item itemvalue="Application.LoopExample" />
         <item itemvalue="Application.MathExample" />
-        <item itemvalue="Application.TripPlanner" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +321,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22163388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -345,7 +331,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3180272" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5714286" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,7 +365,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/project_Trip_Planner.java" />
     <entry file="file://$PROJECT_DIR$/src/com/module1_edx_javabasics/Project_TripPlanner.java" />
-    <entry file="file://$PROJECT_DIR$/src/edx/module1_javabasics_practice/HelloWorld.java">
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -392,24 +378,31 @@
     <entry file="file://$PROJECT_DIR$/.gitignore.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edx/module1_javabasics_practice/PracticeString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edx/module1_javabasics_practice/SwitchExample.java">
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/SwitchExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="88" selection-start-line="9" selection-start-column="88" selection-end-line="9" selection-end-column="88" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edx/module1_javabasics_practice/MathExample.java">
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/MathExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_javabasics_practice/Trial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/NestedLoopExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -423,24 +416,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edx/module1_javabasics_practice/Trial.java">
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/PracticeString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edx/module1_javabasics_practice/LoopExample.java">
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/LoopExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="442">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edx/module1_javabasics_practice/NestedLoopExample.java">
+    <entry file="file://$PROJECT_DIR$/src/edx/module2_javabasics_project/OddsOrEvens.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-109">
-          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+        <state relative-caret-position="782">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
         </state>
       </provider>
     </entry>
