@@ -2,20 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b589faab-9d5e-446d-881c-4de2fc975e97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/edx/module2_javabasics_project/OddsOrEvens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/MethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/RecursionExample_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/RecursionExample_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/ReturnExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/Try.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_javabasics_practice/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_javabasics_practice/LoopExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_javabasics_practice/MathExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_javabasics_practice/NestedLoopExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_javabasics_practice/PracticeString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_javabasics_practice/SwitchExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edx/module1_javabasics_practice/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edx/module1_javabasics_practice/LoopExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/LoopExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edx/module1_javabasics_practice/MathExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/MathExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edx/module1_javabasics_practice/NestedLoopExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/NestedLoopExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edx/module1_javabasics_practice/PracticeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/PracticeString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edx/module1_javabasics_practice/SwitchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/SwitchExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_2_javabasics_practice/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_2_javabasics_practice/LoopExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_2_javabasics_practice/MathExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_2_javabasics_practice/NestedLoopExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_2_javabasics_practice/PracticeString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Edx Java practice/edx/module1_2_javabasics_practice/SwitchExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/LoopExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/LoopExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/MathExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/MathExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/NestedLoopExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/NestedLoopExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/PracticeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/PracticeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/SwitchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/SwitchExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,36 +77,78 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="2" />
-          <entry key="java" value="14" />
-          <entry key="txt" value="1" />
+          <entry key="java" value="20" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="14" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="20" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4136" />
+          <entry key="dummy" value="2" />
+          <entry key="java" value="5633" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4136" />
+          <entry key="JAVA" value="5633" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edx/module2_javabasics_project/OddsOrEvens.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="782">
               <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/Try.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+              <folding>
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/RecursionExample_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+              <folding>
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/RecursionExample_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#667#668#0" expanded="true" />
+                <element signature="e#721#722#0" expanded="true" />
+                <marker date="1556791215877" expanded="true" signature="81:493" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,6 +182,13 @@
         <option value="$PROJECT_DIR$/src/edx/module1_javabasics_practice/Trial.java" />
         <option value="$PROJECT_DIR$/src/edx/module1_javabasics_practice/NestedLoopExample.java" />
         <option value="$PROJECT_DIR$/src/edx/module2_javabasics_project/OddsOrEvens.java" />
+        <option value="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/MethodExample.java" />
+        <option value="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/ReturnExample.java" />
+        <option value="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/MathExample.java" />
+        <option value="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/RecursionExample.java" />
+        <option value="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/RecursionExample_1.java" />
+        <option value="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/RecursionExample_2.java" />
+        <option value="$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/Try.java" />
       </list>
     </option>
   </component>
@@ -174,7 +227,7 @@
               <item name="Edx Java practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="edx" type="462c0819:PsiDirectoryNode" />
-              <item name="module1_2_javabasics_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="module1_2_3_javabasics_practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Edx Java practice" type="b2602c69:ProjectViewProjectNode" />
@@ -214,26 +267,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OddsOrEvens">
-    <configuration name="LoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edx.module1_2_javabasics_practice.LoopExample" />
-      <module name="Edx Java practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edx.module1_2_javabasics_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Try">
     <configuration name="MathExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edx.module1_2_javabasics_practice.MathExample" />
+      <option name="MAIN_CLASS_NAME" value="edx.module1_2_3_javabasics_practice.MathExample" />
       <module name="Edx Java practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edx.module1_2_javabasics_practice.*" />
+          <option name="PATTERN" value="edx.module1_2_3_javabasics_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,12 +281,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedLoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edx.module1_2_javabasics_practice.NestedLoopExample" />
+    <configuration name="RecursionExample_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edx.module1_2_3_javabasics_practice.RecursionExample_1" />
       <module name="Edx Java practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edx.module1_2_javabasics_practice.*" />
+          <option name="PATTERN" value="edx.module1_2_3_javabasics_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,12 +294,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddsOrEvens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edx.module2_javabasics_project.OddsOrEvens" />
+    <configuration name="RecursionExample_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edx.module1_2_3_javabasics_practice.RecursionExample_2" />
       <module name="Edx Java practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edx.module2_javabasics_project.*" />
+          <option name="PATTERN" value="edx.module1_2_3_javabasics_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,12 +307,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edx.module1_javabasics_practice.Trial" />
+    <configuration name="ReturnExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edx.module1_2_3_javabasics_practice.ReturnExample" />
       <module name="Edx Java practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edx.module1_2_javabasics_practice.*" />
+          <option name="PATTERN" value="edx.module1_2_3_javabasics_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Try" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edx.module1_2_3_javabasics_practice.Try" />
+      <module name="Edx Java practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edx.module1_2_3_javabasics_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,19 +334,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ReturnExample" />
       <item itemvalue="Application.MathExample" />
-      <item itemvalue="Application.LoopExample" />
-      <item itemvalue="Application.Trial" />
-      <item itemvalue="Application.NestedLoopExample" />
-      <item itemvalue="Application.OddsOrEvens" />
+      <item itemvalue="Application.RecursionExample_1" />
+      <item itemvalue="Application.RecursionExample_2" />
+      <item itemvalue="Application.Try" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OddsOrEvens" />
-        <item itemvalue="Application.NestedLoopExample" />
-        <item itemvalue="Application.Trial" />
-        <item itemvalue="Application.LoopExample" />
+        <item itemvalue="Application.Try" />
+        <item itemvalue="Application.RecursionExample_2" />
+        <item itemvalue="Application.RecursionExample_1" />
         <item itemvalue="Application.MathExample" />
+        <item itemvalue="Application.ReturnExample" />
       </list>
     </recent_temporary>
   </component>
@@ -321,6 +374,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22163388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -331,7 +385,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5714286" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2585034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -365,7 +419,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/project_Trip_Planner.java" />
     <entry file="file://$PROJECT_DIR$/src/com/module1_edx_javabasics/Project_TripPlanner.java" />
-    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/HelloWorld.java">
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -375,20 +429,10 @@
     <entry file="file://$PROJECT_DIR$/Edx Java practice.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/SwitchExample.java">
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/SwitchExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="88" selection-start-line="9" selection-start-column="88" selection-end-line="9" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/MathExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -399,7 +443,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/NestedLoopExample.java">
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/NestedLoopExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
           <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
@@ -416,17 +460,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/PracticeString.java">
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/PracticeString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_javabasics_practice/LoopExample.java">
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/LoopExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/RecursionExample_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/RecursionExample_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <marker date="1556791215877" expanded="true" signature="81:493" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/MethodExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/ReturnExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/MathExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -434,6 +531,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edx/module1_2_3_javabasics_practice/Try.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
