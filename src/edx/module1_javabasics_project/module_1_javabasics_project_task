@@ -36,7 +36,8 @@ You can report these in 24 format, where midnight is 0:00 and noon is 12:00.
 -----------------------------
 Part 4 – Country Area
 Only three countries in the world us the "imperial system", so most countries report their distances in kilometers. 
-For this part, ask the user the area of their travel destination country in km^2. Then you’ll want to convert that to miles^2 and report those results back to the user.
+For this part, ask the user the area of their travel destination country in km^2. 
+Then you’ll want to convert that to miles^2 and report those results back to the user.
 -----------------------------
 Part 5 – Round
 You may have noticed some of our math has produced numbers with lots of decimal places, making then not look very nice. In this part, 
