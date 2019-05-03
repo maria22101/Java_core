@@ -1,0 +1,33 @@
+Module 2 Project - Odds or Evens
+********************************
+For this project you are going to program a game called "Odds and Evens". 
+The game is similar to rock paper scissors. It is played between two players, in your version it will be you versus the computer. 
+Each player will choose either "odds" or "evens", since you’re playing the computer you will get first pick. 
+Once you have chosen your side, you each choose a number of fingers to play- 0 to 5. 
+--------------------------------
+Part 1 - Pick odds or evens
+Create a new java file called "OddsAndEvens".
+Add a println that produces the following output:
+Let’s play a game called “Odds and Evens”
+Ask the user for their name and then use a scanner to let them type their name into the consol.
+What is your name?
+Now greet the user and ask them to choose either odds or evens. Use a scanner to let them type in either "O" or "E".
+--------------------------------
+Part 2 - Play the Game
+Now you are going to be adding the actual game play to your game.
+Ask the user how many "fingers" they are going to play, and let them enter in a number.
+How many “fingers” do you put out?
+Add the following code to your program to let the computer choose a random number to represent their fingers:
+Random rand = new Random();
+int computer = rand.nextInt(6);
+Add a println that tells the user how many fingers the computer played.
+The computer plays number "fingers".
+Add another line of "-" characters to separate this part of your output from the results.
+Now you need to determine what the results are.
+Add the user’s number and the computer’s numbers together to get the sum.
+Add a println that will print out the math to show the user.
+Add another line of “-“ characters to end your program.
+--------------------------------
+Part 3 - Who won?
+Now that we know the results, it’s time to decide who the winner is!
+--------------------------------
