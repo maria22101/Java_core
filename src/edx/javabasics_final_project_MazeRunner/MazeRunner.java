@@ -1,4 +1,4 @@
-package edx.javabasics_final_project_Mazerunner;
+package edx.javabasics_final_project_MazeRunner;
 
 import java.util.Scanner;
 
